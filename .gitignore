@@ -1,0 +1,10 @@
+# OS Junk Files
+[Tt]humbs.db
+*.DS_Store
+
+# IDE Related Files
+_notes
+.idea
+
+#composer
+vendor
